@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "haxelib": "^0.1.7",
     "html-build": "^1.0.1"
   }
 }
